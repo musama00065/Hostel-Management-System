@@ -97,15 +97,6 @@ Hostel Management System
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-- Admin Dashboard
-- Student Dashboard
-- Room Management
-- Booking System
-
----
 
 ## 📌 Key Learning Outcomes
 
